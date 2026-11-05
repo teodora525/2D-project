@@ -1,0 +1,22 @@
+﻿
+# Visual Studio lokalni podaci
+.vs/
+*.user
+*.suo
+
+# Generisani build folderi
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+ipch/
+
+# Generisani fajlovi
+*.obj
+*.pdb
+*.ilk
+*.idb
+*.pch
+*.tlog
+*.VC.db
+*.VC.VC.opendb

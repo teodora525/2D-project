@@ -1,2 +1,4 @@
 C:\Users\teani\Desktop\siit\2d project\2D project\x64\Debug\glfw3.dll
 C:\Users\teani\Desktop\siit\2d project\2D project\2D project\x64\Debug\2D proje.A580A755.Up2Date
+C:\Users\teani\Desktop\siit\2d project\2D-project\2D project\x64\Debug\glfw3.dll
+C:\Users\teani\Desktop\siit\2d project\2D-project\2D project\2D project\x64\Debug\2D proje.A580A755.Up2Date
