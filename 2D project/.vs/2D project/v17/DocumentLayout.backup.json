@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\teani\\Desktop\\siit\\2d project\\2D project\\",
+  "WorkspaceRootPath": "C:\\Users\\teani\\Desktop\\siit\\2d project\\2D-project\\2D project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{39F94A6F-F03C-45BD-A7A3-9BE71F7F1D20}|2D project.vcxproj|C:\\Users\\teani\\Desktop\\siit\\2d project\\2D project\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{39F94A6F-F03C-45BD-A7A3-9BE71F7F1D20}|2D project.vcxproj|C:\\Users\\teani\\Desktop\\siit\\2d project\\2D-project\\2D project\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{39F94A6F-F03C-45BD-A7A3-9BE71F7F1D20}|2D project.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "main.cpp",
-              "DocumentMoniker": "C:\\Users\\teani\\Desktop\\siit\\2d project\\2D project\\main.cpp",
+              "DocumentMoniker": "C:\\Users\\teani\\Desktop\\siit\\2d project\\2D-project\\2D project\\main.cpp",
               "RelativeDocumentMoniker": "main.cpp",
-              "ToolTip": "C:\\Users\\teani\\Desktop\\siit\\2d project\\2D project\\main.cpp",
-              "RelativeToolTip": "main.cpp",
-              "ViewState": "AgIAAE0BAAAAAAAAAAAkwGYBAAABAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\teani\\Desktop\\siit\\2d project\\2D-project\\2D project\\main.cpp*",
+              "RelativeToolTip": "main.cpp*",
+              "ViewState": "AgIAAA0DAAAAAAAAAAAkwCUDAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-11-05T08:14:12.431Z",
               "EditorCaption": ""
