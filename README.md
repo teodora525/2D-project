@@ -8,7 +8,7 @@
 - Biblioteke: GLFW i GLAD
 - Okruženje: Windows, Visual Studio, MSBuild, x64
 
-> Dokument opisuje poslednju implementaciju sa fullscreen prikazom, putnicima, kontrolorom, kaznama, prilagođenim kursorom i poluprovidnim potpisom. Služi za pokretanje i pripremu odbrane. Ne predstavlja garanciju ocene ili zamenu za originalnu specifikaciju.
+> Dokument opisuje poslednju implementaciju sa fullscreen prikazom, putnicima, kontrolorom, kaznama, prilagođenim kursorom i poluprovidnim potpisom.
 
 ## 1. Opis projekta
 
